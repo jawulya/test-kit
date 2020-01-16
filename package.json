@@ -1,0 +1,22 @@
+{
+  "name": "test-kit",
+  "version": "1.0.0",
+  "description": "ui library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawulya/test-kit.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "Denys Faber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jawulya/test-kit/issues"
+  },
+  "homepage": "https://github.com/jawulya/test-kit#readme"
+}
